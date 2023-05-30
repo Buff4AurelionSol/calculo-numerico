@@ -1,4 +1,7 @@
 
+//DEIVIS JOEL GUILLEN RODRÍGUEZ
+//ALGORITMO DE NEWTON-RAPHSON
+
 fx = lambda x: x**3 + 4*(x**2) -10
 dfx = lambda x: 3*(x**2)+8*x
 
