@@ -31,3 +31,6 @@ while(I<numeroIteraciones and Ea >errorRelativo):
 print("El punto medio Actual es de: ",M_Actual)
 print("El error absoluto es: ",Ea)
 print("El número de iteraciones fue: ",I)
+
+
+#Si
